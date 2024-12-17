@@ -16,3 +16,10 @@ Simulador de restaurante con menú para empleado
 ---
 ![image](https://github.com/user-attachments/assets/eb17f827-2435-4bce-ad35-9805850dd8ad)
 ---
+
+![image](https://github.com/user-attachments/assets/4b2d5c78-6cbb-4e07-adb6-01d8ef5eb93f)
+---
+![image](https://github.com/user-attachments/assets/932a59e3-7247-4237-bdb2-ee99b5af5ba0)
+---
+
+![image](https://github.com/user-attachments/assets/d19a305c-dbca-4371-9875-b4150d91176b)
